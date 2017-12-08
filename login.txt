@@ -1,3 +1,10 @@
 I love my india and i am proud to be an indian.
 
 Hi everybody today is the very special day for me.
+
+if a=10
+   b=20 , then 
+   c=?
+apply formula a=b+c
+
+
